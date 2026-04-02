@@ -90,7 +90,7 @@ Unlike tools that rely on external binaries like `amass` or `subfinder`, ReconX 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/youruser/reconx.git
+git clone https://github.com/arshad9061/reconx.git
 cd reconx
 
 # 2. (Recommended) Create a virtual environment
